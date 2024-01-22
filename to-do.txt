@@ -17,7 +17,7 @@ Use Vanilla js to give functionality
 
 ************************************************
 
-1. Create the html and initally hard code the to do list
+1. Create the html and initally hard code the to do list - DONE
 2. Give the stying and make responsive
     - Use media queries, rems, ems % for responsiveness
 3. Make use of the following for dom manipulation
@@ -26,4 +26,3 @@ Use Vanilla js to give functionality
     - addEventListener
     - appendChild
     - removeChild
-    
