@@ -19,7 +19,7 @@ Use Vanilla js to give functionality
 
 1. Create the html and initally hard code the to do list - DONE
 2. Give the stying and make responsive
-    - Use media queries, rems, ems % for responsiveness
+    - Use media queries, rems, ems % for responsiveness MADE MOBILE RESPONSIVE
 3. Make use of the following for dom manipulation
     - querySelector
     - getElementByID
