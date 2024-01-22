@@ -1,0 +1,28 @@
+# Create a basic front-end to-do application #
+
+User will be able to: 
+
+1: Create a task 
+2: Edit a task
+3: Update a task 
+4: Delete a task 
+
+***********************************************
+
+Structure
+
+Using BEM, create the strucuture with appropriate class names
+Use Pure css to create design the layout 
+Use Vanilla js to give functionality
+
+************************************************
+
+1. Create the html and initally hard code the to do list - DONE
+2. Give the stying and make responsive
+    - Use media queries, rems, ems % for responsiveness
+3. Make use of the following for dom manipulation
+    - querySelector
+    - getElementByID
+    - addEventListener
+    - appendChild
+    - removeChild
